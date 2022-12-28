@@ -1,0 +1,31 @@
+body {
+  background-color: #d5e1ef;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.card {
+  margin: auto;
+  padding: 20px;
+  border-radius: 20px;
+  width: 600px;
+  justify-content: center;
+  background-color: #ffffff;
+  font-size: 20pt;
+}
+.container {
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+#qr{
+  border-radius: 10px;
+}
+
+#faded_text{
+  color: rgba(0, 0, 0, 0.65);
+}
